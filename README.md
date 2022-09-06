@@ -7,9 +7,9 @@ The data in the "tripduration" column is converted to a datetime datatype and ha
 The DataFrame is exported as a new file without the index column (5 pt). This file is named 201908-citibike-tripdata_new.csv
 
 ## Purpose of this analysis with key outcomes
-This study analyzes patterns of riding usage of CitiBikes in New York City during August 2019. It incorporates data from over 2 million rides to analyze bike usage per hour for each hour and for each day of the week, as well as duration of rides. Hourly bike usage and ride durations are delineated by gender of the riders (male, female, or "unknown") with further distinctions between rides by CitiBike subscribers, who pay for a subscription service and generally ride more frequently than non-subscribing customers who pay for each ride individually. 
+This study analyzes patterns of riding usage of the CitiBike bike-sharing service in New York City during August 2019. It incorporates data from over 2.3 million rides to analyze bike usage per hour for each hour and for each day of the week, as well as duration of rides. Hourly bike usage and ride durations are delineated by gender of the riders (male, female, or "unknown") with further distinctions between rides by CitiBike subscribers, who pay for a subscription service and generally ride more frequently than non-subscribing customers who pay for each ride individually. 
 
-Data is visually presented using several graphs and images to tell a story and to help the user better understand patterns and trends of CitiBike usage. This study will be incorporated into a proposed business plan to determine whether it would be feasible to start a CitiBike service in Des Moines, Iowa.
+Data is visually presented using several graphs and images to tell a story and to help the user better understand patterns and trends of CitiBike usage. This study will be incorporated into a proposed business plan to determine whether it would be feasible to start a similar bike-sharing service in Des Moines, Iowa.
 
 Presented below are the visualizations in the [Tableau Story](https://public.tableau.com/app/profile/ken.akerman/viz/Module14ChallengebyKenAkerman/Story?publish=yes "Link to dashboard") with descriptions of the results of each visualization.
 
@@ -33,4 +33,6 @@ In addition to the five visualizations described above, two other visualizations
 ![August_peak_weekdays](Contacts/August_peak_weekdays.png)
 ![August_peak_weekends](Contacts/August_peak_weekends.png)
 
-Results show that 
+Results show that the CitiBike bike-sharing service appears to be popular in New York City, with over 2.3 million rides in a single month. However, while this appears to be an impressive number, this does not mean that the service would be feasible in Des Moines. Such a service may be profitable in New York City, the largest and most densely populated city in the USA with over 8 million residents. On any given day, there are tens of thousands of people in New York City who are not residents but who come into the city for work, education, recreation, sightseeing, and tourism. Due to this high population density, a disproportionaly high percentage of NYC's residents don't own a motor vehicle, so getting around on bike is often a superior alternative to walking, public transit, taxis and ride sharing.
+
+Des Moines, in contrast, has around 215,000 people within its city limits and around 700,000 in its metropolitan area. Therefore, such a
