@@ -1,5 +1,5 @@
-# Bikesharing
-[Link to Tableau Public](https://public.tableau.com/app/profile/ken.akerman/viz/Module14ChallengebyKenAkerman/Story?publish=yes "Link to dashboard")<br>
+## Story and Report for the Final Presentation
+[Click this link for Tableau Public](https://public.tableau.com/app/profile/ken.akerman/viz/Module14ChallengebyKenAkerman/Story?publish=yes "Link to dashboard")<br>
 [Link to Deployed Webpage](https://highpointer.github.io/Bikesharing_CitiBike/)
 
 The data in the "tripduration" column is converted to a datetime datatype and has the correct time format (15 pt)
