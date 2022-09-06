@@ -29,3 +29,5 @@ A heatmap is created showing the number of bike trips for each type of user and 
 ![User_Trips_by_Gender_by_Weekday_Viz](Contacts/User_Trips_by_Gender_by_Weekday_Viz.png)
 
 ## Summary of results
+![August_peak_weekdays](Contacts/August_peak_weekdays.png)
+![August_peak_weekends](Contacts/August_peak_weekends.png)
