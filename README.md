@@ -29,5 +29,8 @@ A heatmap is created showing the number of bike trips for each type of user and 
 ![User_Trips_by_Gender_by_Weekday_Viz](Contacts/User_Trips_by_Gender_by_Weekday_Viz.png)
 
 ## Summary of results
+In addition to the five visualizations described above, two other visualizations are presented. These are ride usage numbers per hour on weekdays (Monday-Friday) and ride usage numbers on weekends (Saturday and Sunday). The Tableau Story explains these hourly variations and diffences between weekday and weekend usage patterns in greater detail.
 ![August_peak_weekdays](Contacts/August_peak_weekdays.png)
 ![August_peak_weekends](Contacts/August_peak_weekends.png)
+
+Results show that 
