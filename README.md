@@ -6,6 +6,12 @@ The data in the "tripduration" column is converted to a datetime datatype and ha
 ![Output_of_converted_values_of_tripduration](Contacts/Output_of_converted_values_of_tripduration.png)
 The DataFrame is exported as a new file without the index column (5 pt). This file is named 201908-citibike-tripdata_new.csv
 
+The purpose of this analysis is to analyze patterns of riding usage of CitiBikes in New York City during August 2019. The study analyzes bike usage per hour for each hour and for each day of the week, as well as duration of rides. Hourly bike usage and ride durations were delineated by gender of the riders (male, female, or "unknown") with further distinctions between ride made by CitiBike subscribers, who pay for a subscription service and generally ride more frequently than non-subscribing customers who pay for each ride individually. 
+
+Data was visually presented using several graphs and images to tell a story and to help the user better understand patterns and trends of CitiBike usage. This study will be incorporated into a proposed business plan to determine whether it would be feasible to start a CitiBike service in Des Moines, Iowa.
+
+Presented below are the visualizations in the [Tableau Story](https://public.tableau.com/app/profile/ken.akerman/viz/Module14ChallengebyKenAkerman/Story?publish=yes "Link to dashboard") with descriptions of the results of each visualization.
+
 There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour (10 pt)
 ![Checkout_Times_for_Users_Viz](Contacts/Checkout_Times_for_Users_Viz.png)
 
